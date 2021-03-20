@@ -18,7 +18,7 @@
 
 
 캡쳐화면
-(https://blog.kakaocdn.net/dn/cTlRqS/btq0pxLmZnj/KV38fq9TPkSbaKt4ZeiKu0/img.png)
+![](https://blog.kakaocdn.net/dn/cTlRqS/btq0pxLmZnj/KV38fq9TPkSbaKt4ZeiKu0/img.png)
 
 사용방법은 간단하다.
 
