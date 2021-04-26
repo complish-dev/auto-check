@@ -15,7 +15,6 @@
 
 ![](https://blog.kakaocdn.net/dn/cTlRqS/btq0pxLmZnj/KV38fq9TPkSbaKt4ZeiKu0/img.png)
 
-
 사용방법은 간단하다.
 
 1.텍스트 입력칸에 값을 입력한다.(ex)학교명은 정확하게 입력해야한다.자가진단할때 입력하는 학교명)
