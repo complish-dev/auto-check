@@ -11,7 +11,7 @@
 
 그래서 나는 학생들의 부담을 덜어주고자 프로그램을 만들었다!
 
-아래는 프로그램 캡쳐 화면이다
+아래는 프로그램 캡쳐 화면이다 
 
 ![](https://blog.kakaocdn.net/dn/cTlRqS/btq0pxLmZnj/KV38fq9TPkSbaKt4ZeiKu0/img.png)
 
